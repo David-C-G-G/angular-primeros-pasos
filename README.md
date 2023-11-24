@@ -1,5 +1,5 @@
 # 02-Bases de Angular
-# ultima actualización: 17-Nov-2023
+# ultima actualización: 24-Nov-2023 1:54 am
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
